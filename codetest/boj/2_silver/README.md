@@ -20,3 +20,22 @@
         - 4이하는 버림, 5이상은 올림
 - 실제로 수학적인 반올림은?
     - math.floor(x + 0.5)
+
+### [10816](https://github.com/lxxhanx/study/blob/main/codetest/boj/2_silver/10816.py)
+- 뭔가를 찾을 때, Dictionary를 이용하면 O(1)이다!
+    - 굳이 이분탐색 안하고 Dictionary를 사용하면 되었다...
+    - Key-Value 쌍을 잘 기억하자!
+
+### [1929](https://github.com/lxxhanx/study/blob/main/codetest/boj/2_silver/1929.py)
+- 소수를 판단하는 방법?
+    - 에라토스테네스의 체
+        - 루트값까지의 수를 하나씩 체크하면서 거른다!
+    - 어쨌든 핵심은 루트값을 생각해보자는 것!
+
+### [1654](https://github.com/lxxhanx/study/blob/main/codetest/boj/2_silver/1654.py)
+- 나무 자르기 문제!
+    - 최소, 최대 중 이진 탐색으로 max값 찾기!
+
+### [2108](https://github.com/lxxhanx/study/blob/main/codetest/boj/2_silver/2108.py)
+- Dictionary 활용
+    - items(), keys(), values() 잘 사용하기!
