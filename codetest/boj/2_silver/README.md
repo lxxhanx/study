@@ -39,3 +39,7 @@
 ### [2108](https://github.com/lxxhanx/study/blob/main/codetest/boj/2_silver/2108.py)
 - Dictionary 활용
     - items(), keys(), values() 잘 사용하기!
+
+### [1463](https://github.com/lxxhanx/study/blob/main/codetest/boj/2_silver/1463.py)
+- DP 만들 때, 굳이 append 쓸려고 하지 말자... 헷갈린다.
+    - 그냥 리스트를 1-n까지 사용하자... ㅎㅎ
