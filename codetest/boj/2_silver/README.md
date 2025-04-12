@@ -43,3 +43,26 @@
 ### [1463](https://github.com/lxxhanx/study/blob/main/codetest/boj/2_silver/1463.py)
 - DP 만들 때, 굳이 append 쓸려고 하지 말자... 헷갈린다.
     - 그냥 리스트를 1-n까지 사용하자... ㅎㅎ
+
+### [9095](https://github.com/lxxhanx/study/blob/main/codetest/boj/2_silver/9095.py)
+- DP 문젠데 그냥 무지성 하드코딩으로 풀었당..ㅎㅎ
+- 점화식을 세워보자!
+    - 1, 2, 3으로만 표현할 수 있으니까
+    - 이전 수에서 1, 2, 3으로만 더할 수 있다!
+    - 그럼 N을 구하려면? N-1에서 1을 더하거나 N-2에서 2를 더하거나 N-3에서 3을 더하면 됨
+    - 이걸 점화식으로 잘 표현한다면...?!
+
+### [11724](https://github.com/lxxhanx/study/blob/main/codetest/boj/2_silver/11724.py)
+- 그래프에서 방문 노드를 설정하는 방법?
+    - visited 리스트를 만들어 보자!
+- DFS, BFS는 구현할 수 있지...?
+- Connected Components 뜻?
+    - 전체 그래프를 연결되어 있는 노드 간 그룹으로 묶었을 때 나오는 수
+    - 간단히 **연결되어 있는 구역의 수**라고 이해할 수 있음
+- Recursion error
+    - 파이썬에서는 1000번의 recursion이 발생하면 에러가 뜸
+    - sys.setrecursionlimit(10**6) 이렇게 강제로 늘릴 수 있음
+
+### [14940](https://github.com/lxxhanx/study/blob/main/codetest/boj/2_silver/14940.py)
+- 문제를 잘 읽자!!
+    - 뭘 출력해야 하는지...ㅋㅋ
