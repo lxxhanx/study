@@ -66,3 +66,8 @@
 ### [14940](https://github.com/lxxhanx/study/blob/main/codetest/boj/2_silver/14940.py)
 - 문제를 잘 읽자!!
     - 뭘 출력해야 하는지...ㅋㅋ
+
+### [1260](https://github.com/lxxhanx/study/blob/main/codetest/boj/2_silver/1260.py)
+- print(*[iter])
+    - 변수를 unpack해서 한 줄로 출력한다!
+    - ex) [1, 2, 3] -> 1 2 3 출력!
