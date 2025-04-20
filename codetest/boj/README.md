@@ -9,3 +9,5 @@
 ### [1541](https://github.com/lxxhanx/study/blob/main/codetest/boj/2_silver/1541.py)
 - 그냥 수학 문제다...
 - 아이디어를 다시 생각하자..!
+### [5525](https://github.com/lxxhanx/study/blob/main/codetest/boj/2_silver/5525.py)
+- 규칙을 잘 활용하자!

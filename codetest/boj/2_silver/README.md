@@ -71,3 +71,6 @@
 - print(*[iter])
     - 변수를 unpack해서 한 줄로 출력한다!
     - ex) [1, 2, 3] -> 1 2 3 출력!
+
+### [30804](https://github.com/lxxhanx/study/blob/main/codetest/boj/2_silver/30804.py)
+- 슬라이딩 윈도우 관리를 어떻게 해야 하는지 다시 고민하자!
